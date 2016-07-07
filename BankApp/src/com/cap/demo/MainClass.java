@@ -5,6 +5,12 @@ public class MainClass {
 	{
 		Account acc = new Account();
 		acc.deposit();
+		greetings();
+	}
+	
+	public static void greetings()
+	{
+		System.out.println("Hello !");
 	}
 
 }
