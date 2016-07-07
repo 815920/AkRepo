@@ -8,7 +8,7 @@ public class Account {
 		
 		for (int i=0; i<3;i++)
 		{
-			System.out.println("Data--"+i);
+			System.out.println("Data="+i);
 		}
 	}
 }
