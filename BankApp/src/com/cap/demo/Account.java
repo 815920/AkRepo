@@ -5,6 +5,6 @@ public class Account {
 	public void deposit()
 	{
 		System.out.println("Deposit Account");
+		int arr[]= {2,5,7,8};
+		}
 }
-	}
-
